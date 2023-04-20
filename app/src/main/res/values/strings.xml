@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CrudProductos</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+</resources>
